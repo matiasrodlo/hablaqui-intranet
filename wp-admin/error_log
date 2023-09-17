@@ -1,0 +1,2 @@
+[09-Mar-2021 19:33:51 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[09-Mar-2021 20:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/meyzjcmc/public_html/in.hablaqui/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1733
